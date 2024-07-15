@@ -1,7 +1,7 @@
 module github.com/smallstep/certificates
 
 go 1.21
-toolchain go1.22.4
+toolchain go1.22.5
 
 require (
 	cloud.google.com/go/longrunning v0.5.9
@@ -10,7 +10,7 @@ require (
 	github.com/dgraph-io/badger v1.6.2
 	github.com/dgraph-io/badger/v2 v2.2007.4
 	github.com/fxamacker/cbor/v2 v2.7.0
-	github.com/go-chi/chi/v5 v5.0.14
+	github.com/go-chi/chi/v5 v5.1.0
 	github.com/go-jose/go-jose/v3 v3.0.3
 	github.com/golang/mock v1.6.0
 	github.com/google/go-cmp v0.6.0
